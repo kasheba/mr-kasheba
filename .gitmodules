@@ -7,3 +7,6 @@
 [submodule "be-analytics-api"]
 	path = be-analytics-api
 	url = https://github.com/kasheba/be-analytics-api.git
+[submodule "documents"]
+	path = documents
+	url = https://github.com/kasheba/documents.git
