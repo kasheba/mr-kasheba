@@ -1,0 +1,9 @@
+[submodule "fe-platform"]
+	path = fe-platform
+	url = https://github.com/kasheba/fe-platform.git
+[submodule "be-contracts"]
+	path = be-contracts
+	url = https://github.com/kasheba/be-contracts.git
+[submodule "be-analytics-api"]
+	path = be-analytics-api
+	url = https://github.com/kasheba/be-analytics-api.git
